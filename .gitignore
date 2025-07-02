@@ -1,1 +1,6 @@
-#  add file's  ignore pull - push 
+.vs/
+*.user
+*.suo
+*.vsidx
+bin/
+obj/
